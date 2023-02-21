@@ -1,0 +1,101 @@
+# ninja log v5
+3145	3207	6742341553553093	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-configure	aed132c3067b1205
+3337	3426	6742341555735094	glew-prefix/src/glew-stamp/glew-done	cc9a3e5af0f3187d
+2	239	6742341523871570	glut-prefix/src/glut-stamp/glut-mkdir	7c74e6bb4732f71
+240	3329	6742341554764200	glut-prefix/src/glut-stamp/glut-download	af68fdb72a72993
+11	177	6709543508915880	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-mkdir	5ecc929d358142d7
+2049	2523	6743560595946076	program.exe	b4c5fb34f18f5864
+3124	3167	6709543538870354	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-build	3b0c98ad7006c56c
+1	173	6709543508915880	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-mkdir	b949c98c520f1055
+13	243	6742341523871570	glew-prefix/src/glew-stamp/glew-mkdir	b7e42c486f7bd385
+3329	3392	6742341555404792	glut-prefix/src/glut-stamp/glut-update	bf7c1ad43061246b
+173	2995	6709543537154004	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-download	58540da7a26764a9
+4181	4246	6709543549666593	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-done	c488d3899170cdec
+2995	3039	6709543537589206	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-update	cd08f4b965cf6f9f
+3027	3086	6742341552331992	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-update	42e88f8f761c4005
+3337	3426	6742341555735094	CMakeFiles/glew-complete	cc9a3e5af0f3187d
+3393	3453	6742341556015346	glut-prefix/src/glut-stamp/glut-patch	6640d83a4a922acf
+3039	3081	6709543538019581	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-patch	e55b6eae9e843d77
+3454	3517	6742341556645921	glut-prefix/src/glut-stamp/glut-configure	e3be677bc506f04c
+3630	3706	6742341558537640	glut-prefix/src/glut-stamp/glut-done	7dd9061c6e464d5b
+3081	3124	6709543538449973	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-configure	3998d18ad8c024a7
+3517	3574	6742341557226450	glut-prefix/src/glut-stamp/glut-build	3522e05f5fbd369c
+3574	3630	6742341557776948	glut-prefix/src/glut-stamp/glut-install	7e432d6850ab0bec
+3167	3210	6709543539300756	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-install	321566838ea50be3
+4249	4257	0	C:/CLion projects/molekula_dokkolas/src/framework.cpp	9ceccd2007ddaec7
+3630	3706	6742341558537640	CMakeFiles/glut-complete	7dd9061c6e464d5b
+3210	3274	6709543539941327	C:/CLion projects/molekula_dokkolas/cmake-build-debug/CMakeFiles/glut-complete	f2df5fe6305bd696
+3273	3337	6742341554844271	glew-prefix/src/glew-stamp/glew-install	b46ccf446570d463
+3210	3274	6709543539941327	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-done	f2df5fe6305bd696
+243	3026	6742341551741462	glew-prefix/src/glew-stamp/glew-download	60c631ed1810a611
+177	3970	6709543546903665	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-download	5f0cfdab6cc356fa
+3517	3574	6742341557226450	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-build	3522e05f5fbd369c
+3145	3207	6742341553553093	glew-prefix/src/glew-stamp/glew-configure	aed132c3067b1205
+3027	3086	6742341552331992	glew-prefix/src/glew-stamp/glew-update	42e88f8f761c4005
+3393	3453	6742341556015346	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-patch	6640d83a4a922acf
+3970	4012	6709543547325370	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-update	52d04e23a47dedf3
+3086	3145	6742341552922527	glew-prefix/src/glew-stamp/glew-patch	6ab4ec94460aea2e
+4012	4054	6709543547745750	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-patch	4399bdd20e22c8ec
+4054	4096	6709543548166131	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-configure	ebb576070eac5644
+3207	3272	6742341554203686	glew-prefix/src/glew-stamp/glew-build	2557e34fb85ebdd1
+4096	4139	6709543548595619	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-build	9522b479db6e4a7a
+3630	3706	6742341558537640	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/CMakeFiles/glut-complete	7dd9061c6e464d5b
+3273	3337	6742341554844271	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-install	b46ccf446570d463
+4139	4181	6709543549015994	C:/CLion projects/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-install	33c41914f26dabee
+4024	4032	0	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/src/Skeleton.cpp	9ceccd2007ddaec7
+4181	4246	6709543549666593	C:/CLion projects/molekula_dokkolas/cmake-build-debug/CMakeFiles/glew-complete	c488d3899170cdec
+243	3026	6742341551741462	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-download	60c631ed1810a611
+4246	4254	0	C:/CLion projects/molekula_dokkolas/src/Skeleton.cpp	9ceccd2007ddaec7
+4	2048	6743560592076949	CMakeFiles/program.dir/src/Skeleton.cpp.obj	8ce2ba5d38b5e1d8
+3706	5191	6742341573381930	CMakeFiles/program.dir/src/framework.cpp.obj	253917a60354ede7
+3329	3392	6742341555404792	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-update	bf7c1ad43061246b
+2	239	6742341523871570	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-mkdir	7c74e6bb4732f71
+13	243	6742341523871570	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-mkdir	b7e42c486f7bd385
+240	3329	6742341554764200	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-download	af68fdb72a72993
+3086	3145	6742341552922527	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-patch	6ab4ec94460aea2e
+3454	3517	6742341556645921	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-configure	e3be677bc506f04c
+3630	3706	6742341558537640	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-done	7dd9061c6e464d5b
+3207	3272	6742341554203686	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-build	2557e34fb85ebdd1
+3574	3630	6742341557776948	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-install	7e432d6850ab0bec
+3337	3426	6742341555735094	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/CMakeFiles/glew-complete	cc9a3e5af0f3187d
+3337	3426	6742341555735094	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-done	cc9a3e5af0f3187d
+4026	4034	0	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/src/framework.cpp	9ceccd2007ddaec7
+4	124	6987152414783403	glut-prefix/src/glut-stamp/glut-mkdir	566e5a03ce6b5557
+4	124	6987152414783403	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-mkdir	566e5a03ce6b5557
+15	133	6987152414783403	glew-prefix/src/glew-stamp/glew-mkdir	710a92f8907e8139
+15	133	6987152414783403	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-mkdir	710a92f8907e8139
+133	2671	6987152440276891	glew-prefix/src/glew-stamp/glew-download	6d5b61bb3f923ac2
+133	2671	6987152440276891	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-download	6d5b61bb3f923ac2
+2671	2737	6987152440932865	glew-prefix/src/glew-stamp/glew-update	b25cd787d694e931
+2671	2737	6987152440932865	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-update	b25cd787d694e931
+2737	2801	6987152441573760	glew-prefix/src/glew-stamp/glew-patch	caef5efc68826460
+2737	2801	6987152441573760	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-patch	caef5efc68826460
+2801	2865	6987152442214730	glew-prefix/src/glew-stamp/glew-configure	8086a00f7c5346de
+2801	2865	6987152442214730	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-configure	8086a00f7c5346de
+2865	2937	6987152442916366	glew-prefix/src/glew-stamp/glew-build	b016ba2414d63710
+2865	2937	6987152442916366	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-build	b016ba2414d63710
+2937	3008	6987152443642964	glew-prefix/src/glew-stamp/glew-install	eeec412e0a8d519b
+2937	3008	6987152443642964	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-install	eeec412e0a8d519b
+3008	3100	6987152444564644	CMakeFiles/glew-complete	d14b611aa800cd16
+3008	3100	6987152444564644	glew-prefix/src/glew-stamp/glew-done	d14b611aa800cd16
+3008	3100	6987152444564644	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/CMakeFiles/glew-complete	d14b611aa800cd16
+3008	3100	6987152444564644	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glew-prefix/src/glew-stamp/glew-done	d14b611aa800cd16
+125	3988	6987152453450162	glut-prefix/src/glut-stamp/glut-download	e165888e56c3fdbd
+125	3988	6987152453450162	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-download	e165888e56c3fdbd
+3989	4057	6987152454126105	glut-prefix/src/glut-stamp/glut-update	a999384dd92084dc
+3989	4057	6987152454126105	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-update	a999384dd92084dc
+4058	4124	6987152454806926	glut-prefix/src/glut-stamp/glut-patch	8279a4058ca4251
+4058	4124	6987152454806926	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-patch	8279a4058ca4251
+4125	4190	6987152455468090	glut-prefix/src/glut-stamp/glut-configure	5985c3087ef1d5eb
+4125	4190	6987152455468090	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-configure	5985c3087ef1d5eb
+4190	4263	6987152456185127	glut-prefix/src/glut-stamp/glut-build	a3ec51bb9d874a36
+4190	4263	6987152456185127	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-build	a3ec51bb9d874a36
+4264	4334	6987152456902042	glut-prefix/src/glut-stamp/glut-install	846672ea1feed531
+4264	4334	6987152456902042	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-install	846672ea1feed531
+4334	4431	6987152457856199	CMakeFiles/glut-complete	23d24766b98f42ff
+4334	4431	6987152457856199	glut-prefix/src/glut-stamp/glut-done	23d24766b98f42ff
+4334	4431	6987152457856199	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/CMakeFiles/glut-complete	23d24766b98f42ff
+4334	4431	6987152457856199	C:/Users/User/Documents/GitHub/grafika_hf1/molekula_dokkolas/cmake-build-debug/glut-prefix/src/glut-stamp/glut-done	23d24766b98f42ff
+4432	6202	6987152475557965	CMakeFiles/program.dir/src/framework.cpp.obj	fcc94a324421c07
+4436	6691	6987152480444407	CMakeFiles/program.dir/src/Skeleton.cpp.obj	409d85459ce90d21
+6692	7113	6987152483274370	program.exe	d939d699f7e92e80
